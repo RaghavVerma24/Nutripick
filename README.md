@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### Won radio.io prize from HackAPAC among 230 students.
+### Won Radar.io prize from HackAPAC among 230 students.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
